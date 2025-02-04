@@ -1,0 +1,6 @@
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\Stringi ayıklama\TCMBKurBilgisCekme\bin\Debug\TCMBKurBilgisCekme.dll
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\Stringi ayıklama\TCMBKurBilgisCekme\bin\Debug\TCMBKurBilgisCekme.pdb
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\Stringi ayıklama\TCMBKurBilgisCekme\obj\Debug\TCMBKurBilgisCekme.csproj.AssemblyReference.cache
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\Stringi ayıklama\TCMBKurBilgisCekme\obj\Debug\TCMBKurBilgisCekme.csproj.CoreCompileInputs.cache
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\Stringi ayıklama\TCMBKurBilgisCekme\obj\Debug\TCMBKurBilgisCekme.dll
+C:\Users\Optimum Sinerji\Desktop\Test Dosyaları\Stringi ayıklama\TCMBKurBilgisCekme\obj\Debug\TCMBKurBilgisCekme.pdb
